@@ -1,4 +1,4 @@
-package com.mycompany.app;
+package com.mycompany;
 
 import com.sun.net.httpserver.HttpExchange;
 import com.sun.net.httpserver.HttpHandler;
